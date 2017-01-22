@@ -15,7 +15,7 @@ class App extends Component {
         </div>
         <hr />
         <footer>
-          <p className="text-xs-center">&copy; 2005 – 2017.</p>
+          <p className="text-xs-center">&copy; 2005 – 2017 @calvintychan.</p>
         </footer>
       </div>
     );
